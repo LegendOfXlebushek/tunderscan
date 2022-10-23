@@ -1,0 +1,7 @@
+ahk==0.14.1
+PyAutoGUI==0.9.53
+opencv-python==4.6.0.66
+Pillow==9.2.0
+keyboard==0.13.5
+pytesseract==0.3.10
+ahk-binary==1.1.33.9
